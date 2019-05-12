@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>www</title>
+    <link rel="stylesheet" href="../lib/bootstrap.css">
+    <link rel="stylesheet" href="css/ico.css">
+    <link rel="stylesheet" href="css/car.css">
+    <script src="../lib/jquery2.24.js"></script>
+    <script src="../lib/cookie-1.js"></script>
+    <script src="js/car.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header">
+           <div class="d-flex justify-content-between">
+                <div><a href="../index.html"  class="logo"></a></div>
+                <ul class="top-right">
+                    <li class="active"><a class="login" href="../login/login.html">登录</a><a class="register" href="../register/register.html">注册</a></li>
+                    <li class="car"><a  href="car.html">购物车</a>
+                    <div class="car-list">
+                        <!-- <ul>
+                            <li>
+                                
+                            </li>
+                        </ul>
+                        <p class="gocar"></p> -->
+                    </div>
+                    </li>
+                    <li><a class="msg" href="#">消息</a></li>
+                    <li><a href="#">添加商品</a></li>
+                    <li><a href="#">资质证照</a>
+                        <span>/</span>
+                        <a href="#">协议规则</a></li>
+                </ul>
+           </div>
+        </div>
+    </header>
+    <div class="head"></div>
+
+    <nav >
+        <div class="d-flex justify-content-between cont margin">
+            <ul class="nav-list">
+                    <li class="te"><a href="#">首页</a></li>
+                    <li><a href="#">商品</a></li>
+                    <li><a href="#">周边</a></li>
+                    <li><a href="#">分享</a></li>
+                    <li class="te"><a href="#">优客</a></li>
+            </ul>
+            <div class="search">
+                <input type="text" class="txt" placeholder="search...">
+                <a class="glyphicon glyphicon-search btn"></a>
+            </div>
+        </div>
+        <div class="Submenu">
+            <div class="margin box">
+                <dl class=" d-flex flex-wrap">
+                 
+                       
+                </dl>
+            </div>
+        </div>
+    </nav>
+    <div class="nav"></div>
+
+    <main id="car" >
+     <div class="margin">
+            <ul class="menu">
+                    <li><label for="all" class="for"><input type="checkbox" id = "all"/>全选</label></li>
+                    <li class="goodsName">商品名称</li>
+                    <li>单价</li>
+                    <li>数量</li>
+                    <li>金额</li>
+                    <li>操作</li>
+                </ul>
+                <div class="goods">
+                           <!-- <ul>
+                                <li><input type ="checkbox" class="checkbox"/></li>
+                                <li class="commodity">
+                                   <a href="#" class="img"><img src="https://img13.360buyimg.com/n7/jfs/t1/3/15/4536/138660/5b997bf8Ed72ebce7/819dcf182d743897.jpg" alt=""></a>
+                                   <p>"Apple iPhone XS Max (A2104) 256GB 深空灰色 移动联通电信4G,【五月特惠，抢券立减700元】iPhoneXsMax大屏旗舰，支持双卡、无线充电。购买移动4G优先版限时特惠仅需8199元！"</p>
+                               </li>
+                                <li>69元</li>
+                                <li><div>1</div></li>
+                                <li>69元</li>
+                                <li "><button class="dele>&times;</button></li>
+                            </ul> -->
+                            <p class="txt">你还没有选择商品</p>
+                </div>
+                   <ul class="Settlement">
+                       <li><a href="../goodsList/goodList.html">继续购物</a></li>
+                       <li class="num">共<span class="allnum">0</span>件商品，已选中<span class="checked">0</span>件</li>
+                       <li class="sum"><span>0.00</span>元</li>
+                       <li class="goSettlement"><a href="#">去结算</a></li>
+                   </ul>
+     </div>
+    </main>
+
+    <div class="ourShop">
+        <div class="margin">
+            <div class="title">
+            <h3>优品商店
+                <span>/</span>
+                OUR SHOP
+            </h3>
+            </div>
+            <div class="d-flex justify-content-between">
+            <div class="d-flex ">
+                <i class="ico ico1"></i>
+                <div class="box">
+                    <h4>全球精品</h4>
+                    <p>Global Selections</p>
+                </div>
+            </div>
+            <div class="d-flex">
+                <i class="ico ico2"></i>
+                <div class="box">
+                <h4>全球精品</h4>
+                <p>Global Selections</p>
+                </div>
+            </div>
+            <div class="d-flex">
+                <i class="ico ico3"></i>
+                <div class="box">
+                <h4>全球精品</h4>
+                <p>Global Selections</p>
+                </div>
+            </div>
+            <div class="d-flex">
+                <i class="ico ico4"></i>
+                <div class="box">
+                <h4>全球精品</h4>
+                <p>Global Selections</p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="margin d-flex">
+            <div class="footer-l">
+                <div class="share d-flex">
+                 <i class="icon-phone"></i>
+                 <div class="box">
+                     <p>iPhone Android</p>
+                     <p>客户端下载</p>
+                 </div>
+                </div>
+                <div class="about">
+                <p><a href="#">关于我们</a> 
+                    <span>|</span>
+                   <a href="#">服务协议</a> 
+                   <span>|</span> 
+                   <a href="#">隐私保护政策</a> 
+                   <span>|</span> 
+                   <a href="#">使用指南</a> 
+                   <span>|</span> 
+                   <a href="#">联系我们</a> 
+                   <span>|</span> 
+                   <a href="#">加入我们</a> 
+                   <span>|</span> 
+                   <a href="#">友情链接</a> 
+                   <span>|</span> 
+                   <a href="#">私信我们</a> 
+                </p>
+                <p>© 2013-2019 北京良仓文化传播有限公司版权所有 京ICP备13010677号-1 京公网安备11010502025627</p>
+                <p>公司名称：北京良仓文化传播有限公司  电话：010-58263516</p>
+                <p>公司地址：北京朝阳区百子湾路32号6号楼1层60号.</p>
+                <p>社会信用统一代码：91110105059231575L  食品许可证：JY11105160159557  </p>
+                <p>图书证名称：中华人民共和国出版物经营许可证  图书证编号：新出发京零 字第 朝 150051 号 </p>
+                </div>
+             </div>
+             <div class="footer-r">
+                <p><a href="#" class="icon-weixin"></a><a href="#" class="icon-weibo"></a><a href="#" class="icon-douban"></a><a class="more"></a></a></p>
+             </div>
+        </div>
+    </footer>
+    <div id="goTop">
+     <p>回到</p>
+     <p>顶部</p>
+    </div>
+    <aside>
+        <a href="#" class="app"></a>
+        <a href="#" class="live"></a>
+        <a href="#" class="shop"></a>
+    </aside>
+</body>
+</html>

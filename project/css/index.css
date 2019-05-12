@@ -1,0 +1,106 @@
+.margin{width:1000px;margin:auto}
+
+li{list-style:none;}
+ul{margin:0;padding:0;}
+a:hover{text-decoration: none;}
+
+header{background:#252921;width:100%;position:fixed;z-index:2;}
+.head{height:56px;}
+header .header .d-flex{height:56px;margin:0 auto;width:1000px;}
+header .logo{width:100px;background: url('../img/icon.png')no-repeat 0 9px;display:block;height:56px;}
+header .top-right>li{float:left;height:100%;position:relative;}
+header .top-right>li a,header .top-right>li span{font:12px/56px '';color:#666;}
+header .top-right li:nth-child(1) a{margin:0 5px;}
+header .top-right>li:nth-child(1)::after,header .top-right>li:nth-child(2)::after,header .top-right>li:nth-child(3)::after{content:'';width:1px;height:10px;background:#666;display: inline-block;margin:0 15px;}
+header .top-right>li:last-child{margin-left:15px;}
+header .top-right>li.active a{color:#fff;}
+header .top-right>li:hover span{color:#fff;}
+header .top-right>li:hover a{color:#fff;text-decoration: none;}
+header .top-right .car-list{position:absolute;background:#fff;width:300px;height:100px;z-index:1;left:-15px;top:35px;display:none;opacity: 0;box-shadow:0 0 5px  #999;z-index:3;}
+header .top-right .car-list::before{content:'';position: absolute;border-left:8px solid transparent;border-bottom:8px solid #fff;border-right:8px solid transparent;top:-8px;left:30px;} 
+/* * header .top-right .car-list li{} */
+
+nav{margin-bottom:30px;height:49px;position: relative;width:100%;position:fixed;z-index:1;background:#fff;}
+.nav{height:79px;}
+nav .cont{border-bottom:3px solid #ccc;height:49px;}
+nav ul{display:flex;height:100%;}
+nav ul li{text-align:center;}
+nav ul li:first-child a{text-align:left;margin:0;}
+nav ul li a{display:block;width:120px;margin-right:20px;font:16px/46px '';color:#000;}
+nav ul li:hover a{text-decoration: none;color:#000;border-bottom:3px solid #000;}
+nav ul li a.active{text-decoration: none;color:#000;border-bottom:3px solid #000;}
+nav .search{ height:49px;width:275px;position:relative;overflow:hidden;} 
+nav .search .txt{width:275px;border:0;outline:0;border-bottom:3px solid #000;height:100%;position:absolute;left:275px;} 
+nav .search .btn{width:50px;background:0;position:absolute;top:0;right:0;height:100%;padding:0;outline:0;line-height:49px;font-size:20px;cursor: pointer;} 
+nav .Submenu{background:#fff;width:100%;position: absolute;z-index:1;overflow:hidden;}
+nav .box{height:0;}
+nav dl{width:680px;position: relative;}
+nav dd{width:50px;margin:50px 47px 0 0;text-align:center;}
+nav dd:hover{background:#ccc;box-shadow:inset 0 2px 5px #000; }
+nav dd i{font-size:30px;display: block;margin-bottom:5px;}
+nav dd p {width:680px;position: absolute;left:0;background:#ccc;height:40px;box-shadow:inset 0 2px 5px #000; }
+nav dd p a{float:left;font:14px/40px '';cursor: pointer;flex:1;}
+nav dd p a:hover{box-shadow:0 0 5px #000;}
+
+.banner{position: relative;height:500px;margin-bottom:20px;}
+.banner .box{height:475px;position: relative;overflow:hidden;}
+.banner span{width:54px;height:54px;position:absolute;;
+    border-radius:50%;font:40px/54px '宋体';text-align:center;color:#fff;top:50%;margin-top:-45px;z-index:2;display:none;}
+.banner .left{left:40px;text-indent: -5px;}
+.banner .right{right:40px;text-indent: 5px;}
+.banner .pic{width:100%;height:475px;}
+.banner .pic li{position: absolute;}
+.banner .pic li img{width:1000px;}
+.banner:hover span{display:block;}
+.banner span:hover{background:rgba(0,0,0,.3)}
+.banner .list{height:20px;}
+.banner .list li{width:20px;height:5px;background:#ccc;margin:5px;}
+.banner .list li.active{background:#000;}
+
+.smallBanner{height:403px;}
+.smallBanner img{display:block;width:317px;height:190px;}
+.smallBanner .sB-l,.smallBanner .sB-c img{height:100%;}
+.smallBanner .sB-l,.smallBanner .sB-c,.smallBanner .sB-r{width:317px;}
+.smallBanner .sB-l,.smallBanner .sB-r{display: flex;align-content: space-between;flex-wrap: wrap;}
+
+main .title{margin:30px 0;}
+main .title h3{font:14px/30px '';border-bottom:1px solid #ccc;text-align: center;}
+
+main .goods{padding-top:10px;}
+main .goods  li{width:220px;transition:.5s;float:left;margin:10px 15px 30px;}
+main .goods  li:hover{box-shadow:0 0 8px 2px #999;}
+main .goods  li img{display:block;width:220px;height:220px;margin:10px auto;}
+main   li span{display:block;text-indent: 10px;color:red;margin-top:10px;}
+main  li .introduce{font:13px/20px '';color:#000;margin:5px 10px;height:40px;overflow:hidden;}
+
+main .more{width:148px;height:50px;margin:60px 426px 70px;border:3px solid #000;font:800 20px/44px '';text-align: center;cursor: pointer;}
+main .more:hover{background:#000;color:#fff;}
+
+
+.ourShop{background:#fbfdfe;border-top:1px solid #ccc;padding-bottom:60px;}
+.ourShop .title{padding-top:20px;}
+.ourShop .title h3{font:800 16px/60px '';color:#666;text-align: center;}
+.ourShop .ico{background:url('../img/icon.png')no-repeat;}
+.ourShop .box{margin-left:20px;}
+.ourShop .box h4{font:14px/24px '';color:737373;margin:5px 0 0 0;}
+.ourShop .box p{font:12px/22px '';color:#ccc;margin:0 0 5px 0;}
+.ourShop .ico1{width:56px;background-position:0 -358px;}
+.ourShop .ico2{width:56px;background-position:-154px -220px;}
+.ourShop .ico3{width:56px;background-position:-56px -355px;}
+.ourShop .ico4{width:56px;background-position:-115px -355px;}
+
+footer{background:#25292e;padding-top:40px;}
+footer .footer-l .share{color:#5c5c5c;padding-bottom:20px;}
+footer .footer-l .share p{margin:0;font:14px/24px '';}
+footer .footer-l .share i::before{font-size:46px;color:#aaa;margin:0 10px 0 -8px;}
+footer .about a{font:12px/24px '';color:#5c5c5c;}
+footer .about a:hover{color:#ccc;}
+footer .about span{color:#5c5c5c;font:8px/24px '';}
+footer .about p{margin:0;font:12px/24px '';color:#5c5c5c;letter-spacing:1px;}
+footer .footer-r{padding-left:160px;}
+footer .footer-r p a::before{font-size:26px;margin:0 10px;color:#666;}
+footer .footer-r p{margin:0 10px;}
+
+#goTop{position:fixed;bottom:20px;right:30px;text-align: center;width:60px;height:60px;background:rgba(0,0,0,.8);border-radius:8px;color:#fff;display:none;font:16px/24px '';padding:6px 0;}
+#goTop p{margin:0;}
+

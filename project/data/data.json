@@ -1,0 +1,147 @@
+{
+    "phone":[{
+        "id":1,
+        "src":"https://img11.360buyimg.com/n7/jfs/t22144/336/515447244/297549/8c269ff0/5b0fcbafNc30f70ec.jpg",
+        "bigimg":"http://img13.360buyimg.com//n0/jfs/t21766/109/531020260/338336/409b289f/5b0fcd66N06279b1b.jpg",
+        "Price":"2599.00",
+        "introduce":"【品质特惠】领券立减400，到手价2199，红外人脸解锁，AI变焦双摄，AI语音助手！经典旗舰米8SE,限时特惠,速抢》",
+        "shop":"小米自营旗舰店"
+    },{
+        "id":2,
+        "src":"https://img13.360buyimg.com/n7/jfs/t1/3/15/4536/138660/5b997bf8Ed72ebce7/819dcf182d743897.jpg",
+        "bigimg":"http://img13.360buyimg.com//n0/jfs/t1/3/15/4536/138660/5b997bf8Ed72ebce7/819dcf182d743897.jpg",
+        "Price":"9699.00",
+        "introduce":"Apple iPhone XS Max (A2104) 256GB 深空灰色 移动联通电信4G,【五月特惠，抢券立减700元】iPhoneXsMax大屏旗舰，支持双卡、无线充电。购买移动4G优先版限时特惠仅需8199元！",
+        "shop":"Apple产品自营旗舰店"
+    },{
+        "id":3,
+        "src":"http://img14.360buyimg.com/n7/jfs/t1/25813/29/12657/304911/5c98c8e2E6bcf7d2d/25342f237b56fe97.jpg",
+        "bigimg":"//img14.360buyimg.com//n0/jfs/t1/25813/29/12657/304911/5c98c8e2E6bcf7d2d/25342f237b56fe97.jpg",
+        "Price":"5480.00",
+        "introduce":"华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB亮黑色全网通版双4G",
+        "shop":"华为自营官方旗舰店"
+    },{
+        "id":4,
+        "src":"//img11.360buyimg.com/n7/jfs/t1/25085/33/12689/193234/5c98cd82E378b451a/d48ee94f9a6c84f1.jpg",
+        "bigimg":"//img11.360buyimg.com//n0/jfs/t1/25085/33/12689/193234/5c98cd82E378b451a/d48ee94f9a6c84f1.jpg",
+        "Price":"4288.00",
+        "introduce":"华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版",
+        "shop":"华为自营官方旗舰店"
+    },{
+        "id":5,
+        "src":"//img10.360buyimg.com/n7/jfs/t9313/81/1352027902/75682/4abc569f/59b85834Ne59b864d.jpg",
+        "bigimg":"//img13.360buyimg.com//n0/jfs/t8110/18/1355093617/32521/2d350ea2/59b85807N2c88a75b.jpg",
+        "Price":"4699.00",
+        "introduce":"Apple iPhone 8 Plus (A1864) 64GB 深空灰色 移动联通电信4G,【五月特惠】iPhone8Plus后置双摄，双面玻璃设计支持无线充电。选择双网通版享优惠，限时优惠仅需4399元！",
+        "shop":"Apple产品自营旗舰店"
+    },{
+        "id":6,
+        "src":"//img11.360buyimg.com/n7/jfs/t1/19699/33/11137/76839/5c8b69acEaa4b91dd/3054e7cd8d3d0e68.jpg",
+        "bigimg":"//img11.360buyimg.com//n0/jfs/t1/19699/33/11137/76839/5c8b69acEaa4b91dd/3054e7cd8d3d0e68.jpg",
+        "Price":"1599.00",
+        "introduce":"小米 红米Redmi Note7Pro AI双摄 6GB+128GB 梦幻蓝 全网通4G 双卡双待 水滴屏拍照游戏,索尼4800万拍照，18个月长质保，骁龙675，4000mAh大电量，P2i整机防泼溅处理，标配18W充电器！小米爆品特惠，选品质，购小米！",
+        "shop":"小米自营旗舰店"
+    },{
+        "id":7,
+        "src":"http://img12.360buyimg.com/n7/jfs/t1/31199/14/3993/287777/5c791bb5Ebaa929af/044c52520956ebfb.jpg",
+        "bigimg":"//img12.360buyimg.com//n0/jfs/t1/31199/14/3993/287777/5c791bb5Ebaa929af/044c52520956ebfb.jpg",
+        "Price":"3298.00",
+        "introduce":"【KPL官方比赛用机】vivo iQOO 44W超快闪充 8GB+128GB电光蓝 全面屏拍照, 骁龙855电竞游戏 全网通4G",
+        "shop":"vivo自营官方旗舰店"
+    },{
+        "id":8,
+        "src":"//img12.360buyimg.com/n7/jfs/t1/42569/4/1133/455139/5cc51debEf2229ec1/f13d6c2e3bfc5e11.jpg",
+        "bigimg":"//img12.360buyimg.com//n0/jfs/t1/42569/4/1133/455139/5cc51debEf2229ec1/f13d6c2e3bfc5e11.jpg",
+        "Price":"3499.00",
+        "introduce":"努比亚 nubia 红魔3电竞, 8GB+128GB 玄铁黑 骁龙855 内置风扇 5000mAh大电池 全面屏游戏 全网通4G",
+        "shop":"努比亚自营旗舰店"
+    },{
+        "id":9,
+        "src":"//img14.360buyimg.com/n7/jfs/t27616/251/1425719819/224805/20c2401e/5bc831fdN61f8d9d2.jpg",
+        "bigimg":"//img14.360buyimg.com//n0/jfs/t27616/251/1425719819/224805/20c2401e/5bc831fdN61f8d9d2.jpg",
+        "Price":"1548.00",
+        "introduce":"vivo Z3 6GB+64GB 极光蓝 性能实力派 全面屏游戏",
+        "shop":"vivo自营官方旗舰店"
+    },{
+        "id":10,
+        "src":"//img14.360buyimg.com/n7/jfs/t1/24240/19/11491/91443/5c8f86f7E74a45afc/5e93dbb87a8c354d.jpg",
+        "bigimg":"//img14.360buyimg.com//n0/jfs/t1/24240/19/11491/91443/5c8f86f7E74a45afc/5e93dbb87a8c354d.jpg",
+        "Price":"3499.00",
+        "introduce":"黑鲨游戏手机2 8GB+128GB 暗影黑 骁龙855 Magic Press立体操控 塔式全域液冷 全面屏 全网通4G 双卡双待",
+        "shop":"黑鲨自营官方旗舰店"
+      
+    },{
+        "id":11,
+        "src":"//img10.360buyimg.com/n7/jfs/t20140/279/2633113298/113707/57d9da77/5b6018c5N6f80495e.jpg",
+        "bigimg":"//img10.360buyimg.com/n1/s450x450_jfs/t20140/279/2633113298/113707/57d9da77/5b6018c5N6f80495e.jpg",
+        "Price":"1999.00",
+        "introduce":"荣耀Note10 全网通6G+64G 幻夜黑 移动联通电信4G全面屏 双卡双待 游戏手机",
+        "shop":"荣耀自营旗舰店"
+      
+    },{
+        "id":12,
+        "src":"//img10.360buyimg.com/n7/jfs/t1/16023/5/15130/160063/5cae9769Ea0fb33f7/fa834d16c8b27536.jpg",
+        "bigimg":"",
+        "Price":"3599.00",
+        "introduce":"OPPO Reno 全面屏拍照手机 8G+256G 雾海绿 全网通 移动联通电信 双卡双待手机",
+        "shop":"OPPO自营官方旗舰店"
+       
+    },{
+        "id":13,
+        "src":"//img13.360buyimg.com/n7/jfs/t1/11399/24/15514/162895/5caaa600E914adbf6/a7ccdc94f46460ed.jpg",
+        "bigimg":"//img13.360buyimg.com//n0/jfs/t1/20168/8/14702/87572/5caaa602Ea291692b/3546de16afcbe711.jpg",
+        "Price":"3992.00",
+        "introduce":"vivo X27Pro 8GB+256GB大内存 黑珍珠 4800万AI三摄全面屏拍照手机 移动联通电信全网通4G手机",
+        "shop":"vivo自营官方旗舰店"
+    },{
+        "id":14,
+        "src":"//img10.360buyimg.com/n7/jfs/t1/24990/27/11853/121739/5c920883E118897b0/bc57c7563eb82aa2.jpg",
+        "bigimg":"//img10.360buyimg.com//n0/jfs/t1/10075/10/15568/119187/5c920b60E305d5bb5/81b8d03033a9c63c.jpg",
+        "Price":"1699.00",
+        "introduce":"荣耀Play 全网通版 6GB+64GB 极光蓝 移动联通电信4G全面屏游戏手机 双卡双待",
+        "shop":"荣耀自营旗舰店"
+    },{
+        "id":15,
+        "src":"//img11.360buyimg.com/n7/jfs/t1/15552/19/12688/617518/5c99e3a8Eb5386100/890601a17df31e92.jpg",
+        "bigimg":"//img11.360buyimg.com//n0/jfs/t1/15552/19/12688/617518/5c99e3a8Eb5386100/890601a17df31e92.jpg",
+        "Price":"2290.00",
+        "introduce":"vivo S1 6GB+128GB 冰湖蓝 2480万AI高清自拍 超广角后置三摄拍照手机  移动联通电信全网通4G手机",
+        "shop":"vivo自营官方旗舰店"
+    },{
+        "id":16,
+        "src":"//img12.360buyimg.com/n7/jfs/t19759/338/2338072914/190731/65ba22/5af0647bNca23c27c.jpg",
+        "bigimg":"//img12.360buyimg.com//n0/jfs/t19759/338/2338072914/190731/65ba22/5af0647bNca23c27c.jpg",
+        "Price":"999.00",
+        "introduce":"诺基亚 NOKIA X6 6GB+64GB 星空黑 全网通 双卡双待 移动联通电信4G",
+        "shop":"诺基亚手机自营旗舰店"
+    },{
+        "id":17,
+        "src":"//img12.360buyimg.com/n7/jfs/t1/31410/9/7948/69850/5c9adf96Eefca7a4b/c39c62fcd59b8717.jpg",
+        "bigimg":"//img13.360buyimg.com//n0/jfs/t1/16830/17/12782/57153/5c9ae025E7813c037/f6bfbebf276c75c4.jpg",
+        "Price":"5788.00",
+        "introduce":"华为P30 Pro 手机 超感光徕卡四摄10倍混合变焦50倍数码变焦【现货当天发免息送华为无线充】 天空之境 全网通（8G+128G）无线充电 屏内指纹",
+        "shop":"福气多多手机旗舰店"
+    },{
+        "id":18,
+        "src":"//img11.360buyimg.com/n7/jfs/t1/21655/40/104/215872/5c073672E8403985f/fac496d473afc09f.jpg",
+        "bigimg":"//img11.360buyimg.com//n0/jfs/t1/21655/40/104/215872/5c073672E8403985f/fac496d473afc09f.jpg",
+        "Price":"1599.00",
+        "introduce":"OPPO K1  光感屏幕指纹 水滴屏拍照手机  4G+64G 摩卡红 全网通 移动联通电信4G 双卡双待",
+        "shop":"OPPO自营官方旗舰店"
+    },{
+        "id":19,
+        "src":"//img10.360buyimg.com/n7/jfs/t1/24899/9/7247/75638/5c678ac7E1afd301b/cd650c965469dce8.jpg",
+        "bigimg":"//img10.360buyimg.com//n0/jfs/t1/24899/9/7247/75638/5c678ac7E1afd301b/cd650c965469dce8.jpg",
+        "Price":"799.00",
+        "introduce":"vivo U1 水滴全面屏 AI智慧拍照手机 3GB+32GB 极光色 移动联通电信全网通4G手机",
+        "shop":"vivo自营官方旗舰店"
+    },{
+        "id":20,
+        "src":"//img10.360buyimg.com/n7/jfs/t23359/128/2369309375/207652/6973579a/5b7d05feN6f190d9a.jpg",
+        "bigimg":"//img13.360buyimg.com//n0/jfs/t22921/120/2385170149/233112/2ade64f5/5b7d77ffN9b878622.jpg",
+        "Price":"1590.00",
+        "introduce":"锤子（smartisan ) 坚果 Pro 2S 6G+64GB 炫光蓝 全面屏双摄 全网通4G手机 双卡双待 游戏手机",
+        "shop":"锤子科技自营旗舰店"
+    }],
+    "computer":[{"e":10},{"f":20},{"g:":30},{"h":40}]
+}
